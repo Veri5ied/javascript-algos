@@ -11,7 +11,7 @@ Algorithm is a set of rules precisely define a sequence of operations
 A data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently. 
 
 <h2>Author</h2>
-<a href="https://www.twitter.com/Veri5ied">Veri5ied</a>
+<h4><a href="https://www.twitter.com/Veri5ied">Veri5ied</a></h4>
 
 Feel free to fork and clone the repo, don't forget to set upstreams so you can pull the latest commits made.
 :)

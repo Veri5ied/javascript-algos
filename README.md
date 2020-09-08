@@ -3,3 +3,6 @@ Some basic algorithms and data structures would appear here in this repo. Each t
 
 <h3>Note:</h3>
 This repo is for learning purposes
+
+<h2>Algorithms</h2>
+Algorithm is a set of rules precisely define a sequence of operations 
